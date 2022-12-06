@@ -1,0 +1,18 @@
+.page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 432px;
+    height: 432px;
+   flex-wrap: wrap;
+}
+.cell{
+    border: 1px solid #141415;
+    width: 25px;
+    height: 25px;
+}
