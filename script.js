@@ -50,6 +50,7 @@ function createGrid(count){
             }
         }
 }
+
 container.appendChild(fragment);
 }
 
